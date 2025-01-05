@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MOSS"]
-	path = MOSS
-	url = https://github.com/agugonrey/moss
 [submodule "eCV"]
 	path = eCV
 	url = https://github.com/cran/eCV
